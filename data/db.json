@@ -1,0 +1,76 @@
+{
+  "notes": [
+    {
+      "title": "Papich minecraft stream",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete MaterialUI tutorial",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "100 pushups",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Pay the Papich",
+      "details": "Donate",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "Lorem Ipsum",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae tortor eu nibh maximus ullamcorper ac sit amet felis. Phasellus sed magna pellentesque nibh feugiat ornare. Fusce nec urna at mauris sollicitudin blandit. Nulla justo felis, consequat sit amet elit nec, maximus finibus magna. Nulla eleifend gravida ultrices. Vivamus ac bibendum erat. Mauris ante risus, malesuada id mollis sit amet, finibus at odio. Aliquam ultrices nunc diam, vitae molestie enim imperdiet non. Phasellus eget gravida dolor, in porta diam. Sed id arcu vel massa tincidunt tincidunt. Vivamus nec turpis nisl. Morbi id metus vitae justo aliquet porta.",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "Wake up",
+      "details": "Nunc rutrum nec ligula sed ultrices. Nunc faucibus justo magna, vitae rhoncus velit viverra eget. Integer sodales orci ut tincidunt venenatis. Donec vestibulum interdum mattis. Proin dignissim ut erat quis ultricies. Maecenas sodales, mauris sed luctus suscipit, elit purus rhoncus sapien, ut laoreet sapien ligula nec justo. Nunc finibus sem quis ligula hendrerit tempor. Praesent egestas elit dui, et egestas lorem accumsan eget. Aliquam et urna eu risus cursus tincidunt congue id dui. Etiam vulputate nisl orci, eget viverra ante consectetur vitae. Fusce elementum mi et pretium rutrum. Nulla id orci lectus. Nulla cursus euismod tincidunt.",
+      "category": "todos",
+      "id": 6
+    },
+    {
+      "title": "Welcome",
+      "details": "Duis sodales, justo at bibendum sagittis, lorem lacus commodo dui, a accumsan metus nisi at leo. Praesent aliquet, massa sit amet dictum pretium, est nulla condimentum lacus, eget facilisis metus dolor in massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis convallis dictum lacinia. Fusce nec urna tempus, placerat neque ac, viverra nunc. Etiam at tellus nec dui egestas hendrerit. Duis dolor leo, ornare quis maximus nec, viverra eget felis. Nullam mattis mauris massa, ac aliquam leo molestie vel. Nulla quis metus et lorem fringilla porta non eu neque. Sed vel tellus tempor, iaculis nisl eget, finibus nibh.",
+      "category": "reminders",
+      "id": 7
+    },
+    {
+      "title": "Learn JS",
+      "details": "Sed iaculis, ipsum vel mollis pretium, dolor dolor fringilla diam, eu faucibus quam dolor eget velit. In risus dui, consequat vitae risus vitae, consectetur consequat orci. Ut quis justo eu neque pharetra vulputate. Morbi vel scelerisque lacus. Cras faucibus nec ante id rhoncus. Nulla pharetra sed purus id semper. Pellentesque massa augue, viverra vitae turpis lobortis, posuere vestibulum quam. Ut elementum mauris neque, nec tempor diam aliquam at. Praesent consectetur scelerisque felis, eget rutrum arcu aliquet et. Nullam et massa in dui luctus fringilla eu nec elit. Nunc cursus sollicitudin magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+      "category": "work",
+      "id": 8
+    },
+    {
+      "title": "12345",
+      "details": "Curabitur vitae sollicitudin lacus. Aenean ultricies faucibus augue nec blandit. Nam bibendum augue et nisi finibus, id ultricies augue tristique. Phasellus nec nunc faucibus, lobortis lectus vitae, mattis nisi. Nulla euismod elit non sodales tristique. Nam non mauris in ex sollicitudin bibendum. Curabitur quam mauris, euismod nec nibh hendrerit, venenatis tincidunt diam. Sed malesuada malesuada orci a cursus. In hac habitasse platea dictumst.",
+      "category": "money",
+      "id": 10
+    },
+    {
+      "title": "Remind me this",
+      "details": "Integer ullamcorper felis ex. Suspendisse ac hendrerit massa. Maecenas euismod, nunc a scelerisque rutrum, nibh eros lacinia erat, eu consequat orci libero sit amet elit. Nullam leo turpis, feugiat eget consequat nec, viverra ac enim. Pellentesque euismod erat eget fringilla euismod. Suspendisse eu arcu ex. Suspendisse nunc nunc, pharetra nec dolor in, ullamcorper venenatis dui. Nullam consequat sem vitae risus rutrum, sed condimentum libero laoreet. Vivamus fermentum, odio at lacinia tempor, mauris tortor rhoncus eros, eget consequat felis leo vel velit. Nam rhoncus porta tincidunt. Morbi a ornare justo. Vivamus aliquam velit in nisl lobortis fringilla. Cras ut risus pretium, tempus nunc quis, hendrerit tellus. Donec faucibus, enim eu finibus euismod, augue metus consequat justo, sit amet rutrum magna erat sit amet neque. Vestibulum eu ligula hendrerit, bibendum felis eget, dictum justo. Maecenas volutpat justo nisl.",
+      "category": "reminders",
+      "id": 11
+    },
+    {
+      "title": "123",
+      "details": "123",
+      "category": "todos",
+      "id": 12
+    },
+    {
+      "title": "Walk the dog",
+      "details": "at evening",
+      "category": "reminders",
+      "id": 13
+    }
+  ]
+}
