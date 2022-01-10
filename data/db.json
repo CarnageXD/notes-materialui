@@ -71,6 +71,12 @@
       "details": "at evening",
       "category": "reminders",
       "id": 13
+    },
+    {
+      "title": "Watch avatar",
+      "details": "",
+      "category": "reminders",
+      "id": 14
     }
   ]
 }
